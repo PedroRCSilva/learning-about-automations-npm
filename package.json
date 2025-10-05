@@ -1,0 +1,25 @@
+{
+  "name": "learning-about-automations-npm",
+  "version": "1.0.0",
+  "description": "project to learn about automations npm",
+  "homepage": "https://github.com/PedroRCSilva/learning-about-automations-npm#readme",
+  "bugs": {
+    "url": "https://github.com/PedroRCSilva/learning-about-automations-npm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroRCSilva/learning-about-automations-npm.git"
+  },
+  "license": "ISC",
+  "author": "PedroRCSilva",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "moment": "^2.30.1" 
+  }
+}
+
+
